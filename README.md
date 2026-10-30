@@ -105,6 +105,9 @@ Traditional fake-account detection only evaluates static metrics like follower c
 - **Nebius Token Factory:** The OpenAI-compatible API protocol made connecting NVIDIA open-source models frictionless. The high-performance GPU infrastructure provided rapid inference times ($\approx 850\text{ms}$) critical for real-time Trust & Safety intervention before abusive posts propagate.
 - **NVIDIA Nemotron:** `nvidia/Nemotron-3-Ultra-550b-a55b` and `nvidia/Nemotron-3_5-Lightning` proved exceptionally superior to traditional keyword filters and smaller LLMs at stylometric authorship attribution—successfully distinguishing between coincidental slang and genuine idiosyncratic ban evasion, while autonomously classifying bot/troll intent from raw profile URLs.
 
+
+Currently running live on -> https://nemotron-shield-ai-fake-account-ser.vercel.app/
+
 ---
 
 ## 📄 License
